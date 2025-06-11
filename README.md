@@ -22,6 +22,16 @@ A comunicação entre designers e desenvolvedores muitas vezes é fragmentada, c
    npm install
    npm start
 
+   
+---
+
+### **3. Salvar as alterações**
+1. Role para baixo até a seção **"Commit changes"**.
+2. Adicione uma mensagem de commit, como `"Adicionando README inicial"`.
+3. Clique em **"Commit changes"** para salvar.
+
+Agora seu repositório está pronto com um README bem estruturado! Você pode acessar a página de edição do README diretamente [aqui](https://github.com/Leandrosilva20/projeto-MVP-front-end-development/edit/main/README.md).
+
 
 
 
