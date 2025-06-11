@@ -21,7 +21,7 @@ A comunicação entre designers e desenvolvedores muitas vezes é fragmentada, c
    cd designsync
    npm install
    npm start
-http://localhost:3000
+
 
 
 
