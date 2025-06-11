@@ -17,10 +17,11 @@ A comunicação entre designers e desenvolvedores muitas vezes é fragmentada, c
 ## **Como Executar o MVP**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/designsync.git
-   cd designsync
+   git clone https://github.com/Leandrosilva20/projeto-MVP-front-end-development.git
+   cd projeto-MVP-front-end-development
    npm install
    npm start
+   http://localhost:3000
 
 
 
