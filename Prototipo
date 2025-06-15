@@ -1,5 +1,2 @@
 prototipos/placeholder.txt 
-mkdir prototipos
-git add .
-git commit -m "Criada pasta prototipos e adicionadas imagens"
-git push origin main
+
