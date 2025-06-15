@@ -19,3 +19,8 @@ Em muitos sites de compras, os usuários não deixam avaliações por falta de t
    ```bash
    git clone https://github.com/seu-usuario/mvp-comentarios-rapidos.git
 
+cd mvp-comentarios-rapidos
+npm install
+npm run dev
+http://localhost:5173
+
