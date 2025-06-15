@@ -2,7 +2,7 @@
 
 ## **Equipe**
 - Leandro Silva
-- 
+ 
 ## **Situação Problema**
 A comunicação entre designers e desenvolvedores muitas vezes é fragmentada, causando inconsistências visuais, retrabalho e atrasos no desenvolvimento de produtos digitais.
 
