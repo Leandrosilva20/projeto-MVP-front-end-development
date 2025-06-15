@@ -82,3 +82,17 @@ Aplicação web que permite ao usuário deixar rapidamente uma avaliação após
 * MVP desenvolvido para fins educacionais e validação de conceito
 * Pode ser adaptado facilmente para lojas virtuais e apps de delivery
 
+prototipos
+
+## Protótipos das Telas
+
+Os protótipos das telas foram criados no **Figma** e estão disponíveis na pasta `/prototipos`. As telas incluem:
+1. **Tela de Avaliação** - Permite ao usuário escolher uma reação e adicionar um comentário curto.
+2. **Tela de Lista de Comentários** - Exibe avaliações de outros usuários.
+
+Os arquivos podem ser encontrados no diretório: [prototipos](prototipos/)
+
+git add .
+git commit -m "Adicionado protótipos das telas e atualizado README"
+git push origin main
+
