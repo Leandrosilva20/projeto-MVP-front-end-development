@@ -16,7 +16,7 @@ Em muitos sites de compras, os usuários não deixam avaliações por falta de t
 * `Vite` para ambiente de desenvolvimento
 * `GitHub` para versionamento
 
-## 🚀 Instruções para Executar o MVP
+##  Instruções para Executar o MVP
 
 1. Clone o repositório:
 
